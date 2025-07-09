@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pdfplumber
+camelot-py[cv]
+sentence-transformers
+chromadb
+openai
+streamlit
+requests
